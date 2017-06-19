@@ -1,10 +1,5 @@
 package com.oaec.fuck;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-
 import redis.clients.jedis.Jedis;
 
 public class RedisJava {
